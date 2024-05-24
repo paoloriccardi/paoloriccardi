@@ -3,7 +3,7 @@
 My name is Paolo, I am a Computer Scientist by education (and by ❤️) and I work as Solution and Data Architect.
 
 Here are a few things about me:
-- 🔭 I'm very interested in system design 
+- :bulb: I'm very interested in system design 
 - 📚 I like (**a lot**) IT and CS articles and books with a good bibliography
 - 🌱 In the last couple of years Go has overcome Python as the favourite language for my pet projects
 - ☁️ I'm a happy user of both Aws and Azure for personal and professional use
